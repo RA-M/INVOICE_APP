@@ -1,0 +1,11 @@
+footer {
+    background-color: #fff; /* Set the background color to white */
+    color: #333; /* Set the text color */
+    padding: 20px 0; /* Adjust padding as needed */
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
